@@ -16,7 +16,8 @@ def main():
     # print out the current year
     year = get_year()
     print("\nThe current year is {}!".format(year))
-
+    ''''''
+    
     # check whether a shape is square or not
     print()  # line break
     if is_square():
@@ -38,7 +39,8 @@ def main():
     print()  # line break!
     total = get_discount()
     print("The total cost of your face masks is: {}.".format(total))
-
+    ''''''
+    
     # print out whether it's currently a leap year
     print()
     this_year = get_year()
